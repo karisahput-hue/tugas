@@ -1,0 +1,6 @@
+{
+  "name": "Toko Pinggiran",
+  "description": "Butik kuliner tradisional bercitarasa modern dengan fitur keranjang belanja instan, scan QRIS dinamis, pembayaran COD, dan konfirmasi WhatsApp langsung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
